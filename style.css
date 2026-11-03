@@ -9,3 +9,4 @@ a { color: var(--accent); }
 .lang { text-align: right; margin: 0; }
 hr { border: 0; border-top: 1px solid color-mix(in srgb, var(--muted) 35%, transparent); margin: 48px 0; }
 li { margin: 6px 0; }
+.note { border-left: 3px solid var(--accent); padding: 4px 12px; color: var(--muted); }
